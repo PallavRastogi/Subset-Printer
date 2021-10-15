@@ -5,3 +5,11 @@ def subset(items):
             if po == "1": print(items[t], end = " ")                
         print("\n")
 #end
+
+
+# create a binary number for each object, increment the binary number by 1 each time loop runs
+# -
+# for each digit of binary number, if digit is 1
+# print the corresponding item
+# else do not print
+# print empty set {} at start
