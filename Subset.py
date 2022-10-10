@@ -13,3 +13,4 @@ def subset(items):
 # print the corresponding item
 # else do not print
 # print empty set {} at start
+  
